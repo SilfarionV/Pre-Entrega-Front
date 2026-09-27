@@ -22,6 +22,10 @@
 
 }
 
+.navbar a {
+    text-decoration: none;
+}
+
 /* Imágenes y distribución general */
 img {
     max-width: 20vw;
@@ -133,5 +137,9 @@ section > h2 {
     flex-direction: column;
     gap: 8px;
     list-style: none;
+}
+
+.redes-sociales a {
+    text-decoration: none;
 }
 
