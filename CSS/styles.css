@@ -3,9 +3,10 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    background-color: whitesmoke;
+    background-color: midnightblue;
     font-family: "Caacupe One", sans-serif;
     font-size: 30px;
+    color: lightgray;
 }
 
 /* Navegación principal */
